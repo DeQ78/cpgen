@@ -18,5 +18,8 @@
   "homepage": "https://github.com/dq78/cpgen#readme",
   "devDependencies": {
     "jest": "^29.1.2"
+  },
+  "dependencies": {
+    "normalize.css": "^8.0.1"
   }
 }
